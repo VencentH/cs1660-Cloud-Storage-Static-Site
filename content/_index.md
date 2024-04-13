@@ -1,4 +1,4 @@
-# Hey There, I'm Qikun
+# Hey There, I'm Qikun Han
 
 Welcome to my corner of the internet. I am a computer science graduate student, and I am creating this page for a few reasons:
 
