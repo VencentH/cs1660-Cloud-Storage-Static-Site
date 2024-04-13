@@ -43,5 +43,5 @@ jobs:
         uses: 'google-github-actions/upload-cloud-storage@v1'
         with:
           path: 'public'
-          destination: 'qikunhan'
+          destination: 'cloud_storage_static_site_bucket'
           parent: false
