@@ -1,0 +1,3 @@
+This is a project that deploying a static website on the Google Cloud Platform (GCP) using various GCP services. The load balancer link as follow: https://console.cloud.google.com/storage/browser/cloud_storage_static_site_bucket;tab=objects?forceOnBucketsSortingFiltering=true&hl=zh-cn&project=cloud-storage-static-site&prefix=&forceOnObjectsSortingFiltering=false. 
+
+This load balancer link corresponds to the github repo link I uploaded, with public access permissions

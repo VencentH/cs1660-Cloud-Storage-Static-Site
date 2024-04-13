@@ -1,7 +1,0 @@
-gs://cloud_storage_static_site_bucket/qikunhan.run/content/_index.md
-
-https://storage.googleapis.com/cloud_storage_static_site_bucket/qikunhan.run/content/_index.md
-
-https://storage.googleapis.com/cloud_storage_static_site_bucket/qikunhan.run/index.html
-
-
