@@ -4,4 +4,4 @@ The project is to deploy a static website on the Google Cloud Platform (GCP) usi
 
 This load balancer link corresponds to the github repo link I uploaded, with public access permissions.
 
-IP address of my load balancer：https://34.111.251.254
+IP address of my load balancer：https://34.128.161.216/index.html
